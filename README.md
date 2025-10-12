@@ -14,7 +14,7 @@ Welcome to MinecraftV1, a simplified version of the popular Minecraft game, buil
 
 ## How to Play 🎮
 
-1. Open [MinecraftV1](https://minecraftv1.vercel.app/) in your web browser.
+1. Open [MinecraftV1](https://rishabnotfound.github.io/MinecraftV1/) in your web browser.
 2. Use the arrow keys or WASD keys to move your character.
 3. Press the spacebar to jump and the left mouse button to mine blocks or interact with objects.
 4. Collect resources such as wood, stone, and ores by mining them with the left mouse button.
