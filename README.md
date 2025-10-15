@@ -1,5 +1,8 @@
 # MinecraftV1 🛠️
 
+<img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/88518ec6-0f40-4272-bc86-42ae48464283" />
+
+
 Welcome to MinecraftV1, a simplified version of the popular Minecraft game, built with HTML, CSS, and JavaScript! Explore a blocky world, mine resources, build structures, and unleash your creativity in this lightweight rendition of the iconic sandbox game. Let's embark on an adventure together! 🎮🌟
 
 ## Features ✨
